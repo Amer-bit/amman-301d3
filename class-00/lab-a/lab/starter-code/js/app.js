@@ -37,7 +37,7 @@ function displayPics(){
     console.log(rando);
   }
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `var to `let`.
-  //Because defined rando with let which is a block level declaration so anything called beyond 
+  //Because we defined rando with let which is a block level declaration so anything called beyond 
   //the block level {} will be undefined while var defines the variable globally
   // PUT YOUR RESPONSE IN THIS COMMENT
   console.log(viewed);
